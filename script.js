@@ -1,6 +1,6 @@
 // script.js
 
-const API_KEY = '4053a528ea6f457d048f27f4' ; // Coloque sua chave aqui!
+const API_KEY = '4053a528ea6f457d048f27f4' ;
 
 async function convertCurrency() {
   const amountInput = document.getElementById('amount');
